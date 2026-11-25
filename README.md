@@ -105,7 +105,7 @@ class Kaviarasu:
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,react,tailwind,bootstrap,fastapi,flask,nodejs,mongodb,mysql,sqlite&perline=13" alt="Languages and web"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,git,github,docker,linux,vscode,figma,ae,pr&perline=13" alt="AI and tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,docker,linux,vscode,figma,ae,pr&perline=13" alt="AI and tools"/>
 
 <br/><br/>
 
